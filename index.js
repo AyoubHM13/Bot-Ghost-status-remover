@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["It's a beta version"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
